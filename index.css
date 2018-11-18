@@ -3,6 +3,7 @@ body {
 }
 
 
+
 #quiz {
 	margin-left: 10px;
 	background: orange;
@@ -30,7 +31,7 @@ input {
 
 
 #button {
-	background: blue;
+	background: red;
 	border: none;
 	border-radius: 5px;
 	padding: 10px;
@@ -44,7 +45,7 @@ input {
 
 #button:hover {
 	background: white;
-	border: 1px solid blue;
+	border: 1px solid red;
 	color: black;
 	cursor: pointer;
 
@@ -52,7 +53,7 @@ input {
 
  #after_submit {
 	visibility: hidden;
-	background: red;
+	background: pink;
 	padding: 10px 20px 10px 20px;
 	width: 400px;
 	border-radius: 20px;
