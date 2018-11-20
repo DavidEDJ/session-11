@@ -5,7 +5,7 @@ body {
 
 body, html, header, h1 {
 	margin: 0px;
-	padding: 0px;
+	padding: 0;
 }
 
 header, body, html {
@@ -14,30 +14,24 @@ header, body, html {
 }
 
 header {
-	background: url("http://jmph.blog.lemonde.fr/files/2013/05/drapeau_union_europenne.jpg"); no-repeat center center;
+background: url("http://www.terredevins.com/wp-content/uploads/2017/03/drapeau-europeen-22.jpeg") no-repeat center center;
 background-size: cover;
 color:white;
+display: flex;
+justify-content: center;
+align-items: center;
 }
-
-.wrapper {
-display: table;
-width: 100%
-height: 100%;
-	}
-
-.content {
-display: table-cell;
-text-align: center;
-vertical-align: middle;
-text-shadow: 1px 1px 10px black;
-		}
+header h1 {
+	text-align: center;
+}
 
 h1{
  font-size: 50px
 	}
 
 .subtitle {
-	font-size: 60px
+	font-size: 40px;
+	width: 90%;
 
 }
 

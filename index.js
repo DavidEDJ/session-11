@@ -8,10 +8,10 @@ function check(){
      var correct = 0;
 
 
-	if (question1 == "De Gaulle") {
+	if (question1 == "Charles de Gaulle") {
 		correct++;
 }
-	if (question2 == "Victor Orban") {
+	if (question2 == "Viktor Orban") {
 		correct++;
 }	
 	if (question3 == "François Mitterrand") {
