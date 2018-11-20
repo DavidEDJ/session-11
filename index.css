@@ -23,6 +23,7 @@ align-items: center;
 }
 header h1 {
 	text-align: center;
+	background-color: black
 }
 
 h1{
@@ -32,6 +33,7 @@ h1{
 .subtitle {
 	font-size: 40px;
 	width: 90%;
+	background-color: black
 
 }
 
