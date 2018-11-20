@@ -14,7 +14,7 @@ function check(){
 	if (question2 == "Victor Orban") {
 		correct++;
 }	
-	if (question3 == "Francois Mitterrand") {
+	if (question3 == "François Mitterrand") {
 		correct++;
 
 }
@@ -23,14 +23,14 @@ function check(){
 		correct++;
 
 }
-	if (question5 == "Francois Asselineau") {
+	if (question5 == "François Asselineau") {
 		correct++;
 
 }
 
 
 	var pictures = ["obama.gif", "fillon.gif", "trump.gif", "meluche.gif"];
-	var messages = ["Bravo !",  "Tres bonne maitrise !",  "C'est un peu juste...", "Ce n'est pas glorieux..."];
+	var messages = ["Bravo !",  "Très bonne maîtrise !",  "C'est un peu juste...", "Ce n'est pas glorieux..."];
 	var range;
 
 	
