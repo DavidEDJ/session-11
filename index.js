@@ -62,7 +62,7 @@ function check(){
 
 
 	var pictures = ["obama.gif", "fillon.gif", "macron.gif", "trump.gif", "meluche.gif"];
-	var messages = ["Bravo !",  "Très bonne maîtrise !", "Ni bon ni mauvais.", "C'est un peu juste...", "Ce n'est pas glorieux..."];
+	var messages = ["Bravo !",  "Bonne maitrise !", "Ni excellent ni mauvais.", "C'est un peu juste...", "Ce n'est pas glorieux..."];
 	var range;
 
 	
